@@ -17,10 +17,13 @@
 
 My Notion Blog
 [📚](https://hushed-crocodile-66e.notion.site/3e02925ec2bf49069f6032747b2d642d?pvs=4)
+
 </br>
 
 My Notion Portfolio
 [🙋‍♂️](https://hushed-crocodile-66e.notion.site/3e3b0f41685940cb858ed910a772cf66?pvs=4)
+
+</br>
 
 <h3 align="center"><b>📚 Languages 📚</b></h3>
 <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
