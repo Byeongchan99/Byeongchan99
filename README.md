@@ -6,11 +6,14 @@
 
 </br>
 
+<!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Byeongchan&theme=tokyonight&show_icons=true)
 
 </br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Byeongchan&layout=compact&theme=tokyonight)
+
+-->
 
 <h3 align="center"><b>📚 Languages 📚</b></h3>
 <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
