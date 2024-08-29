@@ -15,12 +15,23 @@
 
 -->
 
+My Notion Blog
+[📚](https://www.notion.so/3e02925ec2bf49069f6032747b2d642d?p=a6ef0c712f70415b968d4e560cff3f61&pm=c)
+</br>
+
+My Notion Portfolio
+[🙋‍♂️](https://www.notion.so/3e02925ec2bf49069f6032747b2d642d)
+
 <h3 align="center"><b>📚 Languages 📚</b></h3>
 <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 </br>
 
 <h3 align="center"><b>🎮 Gaming 🎮</b></h3>
 <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"/>
+
+<h3 align="center"><b>🛠 Tools 🛠</b></h3>
+
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 #
 
