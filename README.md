@@ -25,6 +25,11 @@ My Notion Portfolio
 
 </br>
 
+My PPT Portfolio
+[🚢](https://www.canva.com/design/DAGPeHiucis/38Limmg5XIkiAXp-Ts2YbA/view?utm_content=DAGPeHiucis&utm_campaign=designshare&utm_medium=link&utm_source=editor#1)
+
+</br>
+
 <h3 align="center"><b>📚 Languages 📚</b></h3>
 <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 </br>
