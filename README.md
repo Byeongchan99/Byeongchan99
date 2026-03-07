@@ -43,17 +43,46 @@ My PPT Portfolio
 
 #
 
+</div>
+
 ## 🎮 Main Projects
 
-| # | Project | Period | Engine | Type | Role |
-|---|---------|--------|--------|------|------|
-| 01 | **Spacetime Shooter** | 2025.11 ~ 2026.02 | Unity 2D | 팀 프로젝트 | 프로그래밍, UGUI 기반 UI 개발, 로컬라이징, 스테이지 제작, 아트 리소스 제작 |
-| 02 | **Color Tile** | 2025.03 ~ 2025.07 | Unity 2D | 개인 프로젝트 | 기획, 아트, UGUI 기반 UI/UX 개발, 프로그래밍 전 과정 |
-| 03 | **Wire Up** | 2024.11 ~ 2025.02 | Unity 3D | 개인 프로젝트 | 기획, UGUI 기반 UI/UX 개발, 프로그래밍 전 과정 |
-| 04 | **Dodge** | 2024.04 ~ 2024.10 | Unity 2D | 개인 프로젝트 | 기획, 도트 그래픽 아트, UGUI 기반 UI/UX 개발, 프로그래밍 전 과정 |
-| 05 | **Rune Chronicle** | 2023.06 ~ 2024.01 | Unity 2D | 개인 프로젝트 | 기획, 도트 그래픽 아트, UGUI 기반 UI/UX 개발, 프로그래밍 전 과정 |
+### 01. Spacetime Shooter
+**기간** : 2025.03 ~ 2025.07  
+**엔진** : Unity 2D | 팀 프로젝트  
+**역할** : 프로그래밍, UGUI 기반 UI 개발, 로컬라이징, 스테이지 제작, 아트 리소스 제작
+
+---
+
+### 02. Color Tile
+**기간** : 2025.03 ~ 2025.07  
+**엔진** : Unity 2D | 개인 프로젝트  
+**역할** : 기획, 아트, UGUI 기반 UI/UX 개발, 프로그래밍 전 과정
+
+---
+
+### 03. Wire Up
+**기간** : 2024.11 ~ 2025.02  
+**엔진** : Unity 3D | 개인 프로젝트  
+**역할** : 기획, UGUI 기반 UI/UX 개발, 프로그래밍 전 과정
+
+---
+
+### 04. Dodge
+**기간** : 2024.04 ~ 2024.10  
+**엔진** : Unity 2D | 개인 프로젝트  
+**역할** : 기획, 도트 그래픽 아트, UGUI 기반 UI/UX 개발, 프로그래밍 전 과정
+
+---
+
+### 05. Rune Chronicle
+**기간** : 2023.06 ~ 2024.01  
+**엔진** : Unity 2D | 개인 프로젝트  
+**역할** : 기획, 도트 그래픽 아트, UGUI 기반 UI/UX 개발, 프로그래밍 전 과정
 
 #
+
+ <div align="center">
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=bychan99)](https://solved.ac/bychan99)
