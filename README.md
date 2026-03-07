@@ -43,6 +43,18 @@ My PPT Portfolio
 
 #
 
+## 🎮 Main Projects
+
+| # | Project | Period | Engine | Type | Role |
+|---|---------|--------|--------|------|------|
+| 01 | **Spacetime Shooter** | 2025.11 ~ 2026.02 | Unity 2D | 팀 프로젝트 | 프로그래밍, UGUI 기반 UI 개발, 로컬라이징, 스테이지 제작, 아트 리소스 제작 |
+| 02 | **Color Tile** | 2025.03 ~ 2025.07 | Unity 2D | 개인 프로젝트 | 기획, 아트, UGUI 기반 UI/UX 개발, 프로그래밍 전 과정 |
+| 03 | **Wire Up** | 2024.11 ~ 2025.02 | Unity 3D | 개인 프로젝트 | 기획, UGUI 기반 UI/UX 개발, 프로그래밍 전 과정 |
+| 04 | **Dodge** | 2024.04 ~ 2024.10 | Unity 2D | 개인 프로젝트 | 기획, 도트 그래픽 아트, UGUI 기반 UI/UX 개발, 프로그래밍 전 과정 |
+| 05 | **Rune Chronicle** | 2023.06 ~ 2024.01 | Unity 2D | 개인 프로젝트 | 기획, 도트 그래픽 아트, UGUI 기반 UI/UX 개발, 프로그래밍 전 과정 |
+
+#
+
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=bychan99)](https://solved.ac/bychan99)
 
