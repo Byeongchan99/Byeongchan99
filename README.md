@@ -47,14 +47,14 @@ My PPT Portfolio
 
 ## 🎮 Main Projects
 
-### 01. Motelet https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white
+### 01. Motelet [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://store.steampowered.com/app/4850970/Motelet/)
 **기간** : 2026.04 ~ 2026.09  
 **엔진** : Unity 2D | 팀 프로젝트  
 **역할** : UGUI 기반 UI 개발, 프로그래밍, 밸런싱 
 
 ---
 
-### 02. 바들바들 https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white
+### 02. 바들바들 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://store.steampowered.com/app/4529820/_/)
 **기간** : 2026.02 ~ 2026.04  
 **엔진** : Unity 3D | 팀 프로젝트  
 **역할** : UGUI 기반 UI 개발, 스테이지 제작, 프로그래밍
