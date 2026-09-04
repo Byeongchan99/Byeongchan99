@@ -66,6 +66,8 @@ My PPT Portfolio
 ---
 
 ### 03. Spacetime Shooter
+[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://store.steampowered.com/app/4314550/Spacetime_Shooter/)
+
 **기간** : 2025.03 ~ 2025.07  
 **엔진** : Unity 2D | 팀 프로젝트  
 **역할** : 아트 리소스 제작, UGUI 기반 UI 개발, 로컬라이징, 스테이지 제작, 프로그래밍
