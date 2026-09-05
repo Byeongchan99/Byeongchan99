@@ -51,7 +51,6 @@ My PPT Portfolio
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://store.steampowered.com/app/4850970/Motelet/)
 
 **기간** : 2026.04 ~ 개발 중
-
 **엔진** : Unity 2D | 팀 프로젝트  
 **역할** : UGUI 기반 UI 개발, 프로그래밍, 밸런싱 
 
