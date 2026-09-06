@@ -26,7 +26,7 @@ My Notion Portfolio
 </br>
 
 My PPT Portfolio
-[🚢](https://www.canva.com/design/DAGPeHiucis/38Limmg5XIkiAXp-Ts2YbA/view?utm_content=DAGPeHiucis&utm_campaign=designshare&utm_medium=link&utm_source=editor#1)
+[🚢](https://www.canva.com/design/DAHOdMA_0Jo/VG2LMHZ3OJsWIY1Ipd9pnw/view?utm_content=DAHOdMA_0Jo&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h0f13457210)
 
 </br>
 
